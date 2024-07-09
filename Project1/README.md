@@ -60,3 +60,12 @@ This project involved analyzing the vacation rental market in Manhattan, New Yor
 - Calculated occupancy rates and estimated potential revenue for recommended properties.
 - Demonstrated proficiency in advanced spreadsheet techniques and data analysis.
 
+## Conclusion
+This project showcases my ability to handle complex data analysis tasks, from data cleaning and preparation to detailed analysis and visualization. The insights derived from this project can guide investors in making informed decisions about vacation rental properties in Manhattan.
+
+Feel free to explore the project files and reach out if you have any questions!
+
+#### Links to project files
+[Project Spreadsheet](https://docs.google.com/spreadsheets/d/1biYIxQTHJh9wqWgubNoor4HyoP3f3hOuyf0909XH2As/edit?usp=sharing)
+[Executive Summary](Project1/"Executive Summary.pdf")
+
