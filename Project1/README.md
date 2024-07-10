@@ -67,5 +67,5 @@ Feel free to explore the project files and reach out if you have any questions!
 
 #### Links to project files
 - [Project Spreadsheet](https://docs.google.com/spreadsheets/d/1biYIxQTHJh9wqWgubNoor4HyoP3f3hOuyf0909XH2As/edit?usp=sharing)
-- [Executive Summary](./Project1/Executive Summary.pdf)
+- [Executive Summary](./Project1/Executive%20Summary.pdf)
 
